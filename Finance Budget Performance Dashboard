@@ -1,0 +1,87 @@
+📊 Finance Budget Performance Dashboard
+Short description
+Interactive Finance Budget Performance Dashboard built with Looker Studio and Google Sheets for budget analysis, variance tracking, financial reporting, and business intelligence.
+README
+📊 Finance Budget Performance Dashboard (2024–2026)
+Overview
+
+This project is an interactive Finance Budget Performance Dashboard developed using Looker Studio with Google Sheets as the data source. The dashboard provides comprehensive insights into budget planning, actual expenditures, and financial performance across departments, regions, and expense categories.
+
+This is my first Business Intelligence dashboard project, created as part of my learning journey in Business Analytics. During the development process, I used Claude AI as a learning assistant to understand concepts, refine calculations, improve dashboard design, and enhance data storytelling while building the dashboard myself.
+
+🎯 Objectives
+
+Compare Budgeted vs. Actual expenditures
+Analyze budget variance
+Monitor department performance
+Identify over-budget and under-budget spending
+Track monthly financial trends
+Support data-driven decision-making through interactive visualizations
+📈 Dashboard Features
+
+Total Budget KPI
+Total Actual KPI
+Budget Variance
+Variance Percentage
+Over Budget Count
+Under Budget Count
+Department-wise Budget Comparison
+Budget Distribution by Department
+Category-wise Variance Analysis
+Monthly Budget vs. Actual Trend
+Interactive Filters (Date, Region, Department, Category)
+Detailed Financial Transaction Table
+🛠️ Tools & Technologies
+
+Looker Studio
+Google Sheets
+Microsoft Excel
+Data Visualization
+Business Intelligence
+Financial Analysis
+Claude AI (AI-assisted learning)
+📂 Dataset
+
+The dataset contains financial transaction records including:
+
+Budgeted Amount
+Actual Amount
+Department
+Region
+Category
+Transaction Date
+Budget Status
+Variance
+Transaction ID
+📊 Key Insights
+
+Compare planned budgets with actual spending.
+Identify departments exceeding their allocated budgets.
+Analyze spending trends over time.
+Monitor budget performance by category and region.
+Enable interactive exploration using filters and drill-down capabilities.
+📷 Dashboard Preview
+
+Image
+Google Sheet Link : https://docs.google.com/spreadsheets/d/115p9REcrBcKE1hGSzNR3BeEadVQmP4HuKPmC3h4XMOY/edit?usp=sharing
+Google Looker : https://datastudio.google.com/s/gNcxcr0gZJQ
+
+🚀 Future Improvements
+
+Forecast future budget performance
+Add predictive analytics
+Build executive summary page
+Integrate live Google Sheets updates
+Enhance dashboard UI with advanced visualizations
+👩‍💻 Author
+
+Eshita Akter
+Business Analytics | Finance | Data Analytics
+LinkedIn: www.linkedin.com/in/eshiatkter
+GitHub: www.github.com/eshitakter
+
+⭐ Acknowledgements
+
+This project was developed as part of my Business Analytics learning journey. Claude AI was used as a learning assistant to support data understanding, dashboard planning, and visualization ideas, while the implementation and customization were completed by me.
+
+Status updates
